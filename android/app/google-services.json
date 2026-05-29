@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65417761817",
+    "project_id": "zivo-fbdee",
+    "storage_bucket": "zivo-fbdee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65417761817:android:bda1445784825fcf730688",
+        "android_client_info": {
+          "package_name": "com.example.zivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65417761817-v259c5prbb7c93rkqgij96k4csvq5erk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOfscu4rlsZZRGGdK3PnnzfdFq9d10R8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65417761817-v259c5prbb7c93rkqgij96k4csvq5erk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
